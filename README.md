@@ -1,2 +1,1 @@
-Hi
-This is a repo for practicing Git
+This is a repo for practicing Git version control
